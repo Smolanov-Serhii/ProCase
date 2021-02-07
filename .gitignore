@@ -1,0 +1,8 @@
+.idea
+config.php
+admin/config.php
+.htaccess
+vendor
+image
+propel.php
+/catalog/view/theme/default/node_modules/

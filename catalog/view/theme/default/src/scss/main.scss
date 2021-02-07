@@ -1,0 +1,10 @@
+@import 'fresco';
+body {
+  &.overflow {
+    overflow: hidden;
+    pointer-events: none;
+  }
+}
+
+@import 'media.scss';
+
